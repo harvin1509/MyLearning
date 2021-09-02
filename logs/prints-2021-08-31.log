@@ -1,0 +1,6 @@
+14:23:51.396 [TestNG-tests-3] INFO  academy.ValidateTitleTest - Navigated to Home Page
+14:23:51.626 [TestNG-tests-3] INFO  academy.ValidateTitleTest - Successfully validated text message
+14:26:36.028 [TestNG-tests-3] INFO  academy.ValidateTitleTest - Driver is initialized
+14:26:42.526 [TestNG-tests-3] INFO  academy.ValidateTitleTest - Navigated to Home Page
+16:49:52.365 [TestNG-tests-3] INFO  academy.ValidateTitleTest - Driver is initialized
+16:49:58.325 [TestNG-tests-3] INFO  academy.ValidateTitleTest - Navigated to Home Page

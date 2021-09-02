@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="29318" started-at="2021-08-27T17:29:58 IST" finished-at="2021-08-27T17:30:28 IST">
+    <groups>
+    </groups>
+    <test name="C:/Users/Admin/eclipse-workspace/MyLearning" duration-ms="29318" started-at="2021-08-27T17:29:58 IST" finished-at="2021-08-27T17:30:28 IST">
+      <class name="academy.ValidateTitleTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:academy.ValidateTitleTest@5ce81285]" name="initialize" is-config="true" duration-ms="5179" started-at="2021-08-27T17:30:09 IST" finished-at="2021-08-27T17:30:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:academy.ValidateTitleTest@5ce81285]" name="basePageNavigation" duration-ms="84" started-at="2021-08-27T17:30:27 IST" finished-at="2021-08-27T17:30:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:academy.ValidateTitleTest@5ce81285]" name="teardown" is-config="true" duration-ms="189" started-at="2021-08-27T17:30:28 IST" finished-at="2021-08-27T17:30:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- academy.ValidateTitleTest -->
+      <class name="academy.HomePageTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:academy.HomePageTest@31610302]" name="initialize" is-config="true" duration-ms="6043" started-at="2021-08-27T17:29:58 IST" finished-at="2021-08-27T17:30:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:academy.HomePageTest@31610302]" name="basePageNavigation" duration-ms="6597" started-at="2021-08-27T17:30:14 IST" data-provider="getData" finished-at="2021-08-27T17:30:20 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[haru@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String,java.lang.String)[pri:0, instance:academy.HomePageTest@31610302]" name="basePageNavigation" duration-ms="4420" started-at="2021-08-27T17:30:20 IST" data-provider="getData" finished-at="2021-08-27T17:30:25 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bhupi@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bhupi]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:academy.HomePageTest@31610302]" name="teardown" is-config="true" duration-ms="231" started-at="2021-08-27T17:30:27 IST" finished-at="2021-08-27T17:30:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- academy.HomePageTest -->
+      <class name="academy.ValidateNavigationBarTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:academy.ValidateNavigationBarTest@52a86356]" name="initialize" is-config="true" duration-ms="4126" started-at="2021-08-27T17:30:04 IST" finished-at="2021-08-27T17:30:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="is_Contact_Present_NavigationBar()[pri:0, instance:academy.ValidateNavigationBarTest@52a86356]" name="is_Contact_Present_NavigationBar" duration-ms="247" started-at="2021-08-27T17:30:25 IST" finished-at="2021-08-27T17:30:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- is_Contact_Present_NavigationBar -->
+        <test-method status="PASS" signature="printAllHeaderLinksTitle()[pri:0, instance:academy.ValidateNavigationBarTest@52a86356]" name="printAllHeaderLinksTitle" duration-ms="116" started-at="2021-08-27T17:30:25 IST" finished-at="2021-08-27T17:30:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printAllHeaderLinksTitle -->
+        <test-method status="PASS" signature="printAllLinksTitle()[pri:0, instance:academy.ValidateNavigationBarTest@52a86356]" name="printAllLinksTitle" duration-ms="1710" started-at="2021-08-27T17:30:25 IST" finished-at="2021-08-27T17:30:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printAllLinksTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:academy.ValidateNavigationBarTest@52a86356]" name="teardown" is-config="true" duration-ms="283" started-at="2021-08-27T17:30:27 IST" finished-at="2021-08-27T17:30:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- academy.ValidateNavigationBarTest -->
+    </test> <!-- C:/Users/Admin/eclipse-workspace/MyLearning -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

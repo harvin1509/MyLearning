@@ -1,0 +1,6 @@
+16:51:05.977 [TestNG-tests-3] INFO  academy.ValidateTitleTest - Driver is initialized
+16:51:19.484 [TestNG-tests-3] INFO  academy.ValidateTitleTest - Navigated to Home Page
+17:05:37.941 [main] INFO  academy.ValidateTitleTest - Driver is initialized
+17:05:40.735 [main] INFO  academy.ValidateTitleTest - Navigated to Home Page
+17:49:44.219 [main] INFO  academy.ValidateTitleTest - Driver is initialized
+17:49:47.397 [main] INFO  academy.ValidateTitleTest - Navigated to Home Page
